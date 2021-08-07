@@ -1,0 +1,3 @@
+/Users/azhong/Documents/Project/cmake-example/01-basic/G-compile-flags/build/CMakeFiles/rebuild_cache.dir
+/Users/azhong/Documents/Project/cmake-example/01-basic/G-compile-flags/build/CMakeFiles/edit_cache.dir
+/Users/azhong/Documents/Project/cmake-example/01-basic/G-compile-flags/build/CMakeFiles/cmake_examples_compile_flags.dir
