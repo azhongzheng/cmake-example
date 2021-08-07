@@ -1,0 +1,4 @@
+/Users/azhong/Downloads/bin/cmake_examples_inst_bin
+/Users/azhong/Downloads/lib/libcmake_examples_inst.dylib
+/Users/azhong/Downloads/include/installing/Hello.h
+/Users/azhong/Downloads/etc/cmake-examples.conf

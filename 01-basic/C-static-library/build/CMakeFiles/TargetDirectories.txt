@@ -1,0 +1,4 @@
+/Users/azhong/Documents/Project/cmake-example/C-static-library/build/CMakeFiles/rebuild_cache.dir
+/Users/azhong/Documents/Project/cmake-example/C-static-library/build/CMakeFiles/edit_cache.dir
+/Users/azhong/Documents/Project/cmake-example/C-static-library/build/CMakeFiles/hello_binary.dir
+/Users/azhong/Documents/Project/cmake-example/C-static-library/build/CMakeFiles/hello_library.dir
