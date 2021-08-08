@@ -18,4 +18,4 @@ target_link_libraries(third_party_include
     PRIVATE
         Boost::filesystem
 )
-#g++ main.cpp -I /usr/local/mysql/include -L -static /usr/local/Cellar/boost/1.76.0/lib -lboost_filesystem
+#g++ main.cpp -I /usr/local/mysql/include -L  /usr/local/Cellar/boost/1.76.0/lib -lboost_filesystem
