@@ -1,8 +1,0 @@
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/CMakeFiles/rebuild_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/CMakeFiles/edit_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject1/CMakeFiles/rebuild_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject1/CMakeFiles/edit_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject1/CMakeFiles/subproject1.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject2/CMakeFiles/rebuild_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject2/CMakeFiles/edit_cache.dir
-/Users/azhong/Documents/Project/cmake-example/04-static-analysis/clang-analyzer/build/subproject2/CMakeFiles/subproject2.dir

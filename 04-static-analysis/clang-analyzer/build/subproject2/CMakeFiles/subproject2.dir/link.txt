@@ -1,1 +1,0 @@
-/usr/local/Cellar/llvm/12.0.1/libexec/c++-analyzer -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/subproject2.dir/main2.cpp.o -o subproject2 
