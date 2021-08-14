@@ -7,7 +7,7 @@ project (catch2_unit_test)
 set(CMAKE_CXX_STANDARD 11)
 
 # add the CMakeFile that defines catch2
-add_subdirectory(3rd_party/catch2)
+add_subdirectory(3rd_party/google-test)
 
 # Add an library for the example classes
 add_library(example_unit_test
@@ -26,8 +26,9 @@ enable_testing()
 add_executable(unit_tests unit_tests.cpp)
 
 target_link_libraries(unit_tests
-    example_unit_test
-    Catch2::Test
+    example_google_test
+    GTest::GTest 
+    GTest::Main
 )
 
 add_test(test_all unit_tests)
