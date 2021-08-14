@@ -2,34 +2,38 @@
 #include "Reverse.h"
 #include "Palindrome.h"
 
-#define CATCH_CONFIG_MAIN
-#include "catch2/catch.hpp"
+#include <gtest/gtest.h>
 
+class ReverseTests : public ::testing::Test
+{
+};
 
-TEST_CASE( "simple" )
+TEST_F(ReverseTests, simple )
 {
     std::string toRev = "Hello";
 
     Reverse rev;
     std::string res = rev.reverse(toRev);
 
-    REQUIRE( res == "olleH" );
+    EXPECT_EQ(res, "olleH" );
+
 }
 
-TEST_CASE( "empty" )
+TEST_F(ReverseTests, empty )
 {
     std::string toRev;
 
     Reverse rev;
     std::string res = rev.reverse(toRev);
 
-    REQUIRE( res == "" );
+    EXPECT_EQ(res, "" );
 }
 
-TEST_CASE( "is_palindrome" )
+TEST_F(ReverseTests,  is_palindrome )
 {
     std::string pal = "mom";
     Palindrome pally;
 
-    REQUIRE( pally.isPalindrome(pal) == true );
+    EXPECT_TRUE(pally.isPalindrome(pal));
+
 }

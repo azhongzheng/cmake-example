@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/CMakeFiles/googletest
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/CMakeFiles/googletest.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/azhong/Documents/Project/cmake-example/05-unit-testing/google-test-download/build/3rd_party/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule

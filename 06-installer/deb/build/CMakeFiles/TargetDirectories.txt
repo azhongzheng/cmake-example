@@ -1,0 +1,10 @@
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/install/local.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/install/strip.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/install.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/list_install_components.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/edit_cache.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/rebuild_cache.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/package_source.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/package.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/cmake_examples_deb_bin.dir
+/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build/CMakeFiles/cmake_examples_deb.dir

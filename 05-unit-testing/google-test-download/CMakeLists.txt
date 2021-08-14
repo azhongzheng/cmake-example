@@ -1,16 +1,10 @@
 cmake_minimum_required(VERSION 3.5)
 
 # Set the project name
-project (catch2_unit_test)
-
-
-set(CMAKE_CXX_STANDARD 11)
-
-# add the CMakeFile that defines catch2
-add_subdirectory(3rd_party/google-test)
+project (google_test_example)
 
 # Add an library for the example classes
-add_library(example_unit_test
+add_library(example_google_test 
     Reverse.cpp
     Palindrome.cpp
 )
@@ -18,6 +12,8 @@ add_library(example_unit_test
 
 #############################################
 # Unit tests
+
+add_subdirectory(3rd_party/google-test)
 
 # enable CTest testing
 enable_testing()

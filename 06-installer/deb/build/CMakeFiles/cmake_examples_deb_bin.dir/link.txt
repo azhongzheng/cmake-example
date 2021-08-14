@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmake_examples_deb_bin.dir/src/main.cpp.o -o cmake_examples_deb_bin  -Wl,-rpath,/Users/azhong/Documents/Project/cmake-example/06-installer/deb/build libcmake_examples_deb.dylib 
